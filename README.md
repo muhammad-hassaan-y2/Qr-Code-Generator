@@ -1,4 +1,4 @@
- QR Code Generator
+# QR Code Generator
 
 This is a simple QR code generator web application built using Next.js and Tailwind CSS. It allows users to generate QR codes for text or URLs with customizable size and color.
 
